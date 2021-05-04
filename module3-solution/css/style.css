@@ -1,6 +1,7 @@
 /********** Base styles **********/
 * {
-  font-family: Arial, Helvetica, sans-serif; 
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  font-family: 'Pangolin', cursive; 
   box-sizing: border-box;
 
 }
@@ -15,6 +16,7 @@ h1 {
 
 h2 {
 	font-size: 125%;
+  font-weight: bold;
 	border: 1px solid black;
 	float: right;
 	padding: 5px 20px 5px 20px;
@@ -25,7 +27,7 @@ h2 {
 section {
 	background-color: plum;
 	border: 1px solid black;
-	height: 150px;
+	height: 180px;
 	overflow: auto;
 
 }
@@ -43,7 +45,6 @@ p {
 background-color: #FFDAB9;
 }
 
-
 .powderblue {
 background-color: #B0E0E6;
 }
@@ -52,6 +53,11 @@ background-color: #B0E0E6;
 background-color: #FFFACD;
 }
 
+
+.tallsection {
+  height: 1000px;
+  overflow: auto;
+}
 
 /********** Desktop devices only **********/
 
