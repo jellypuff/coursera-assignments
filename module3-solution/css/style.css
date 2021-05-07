@@ -41,6 +41,10 @@ p {
 }
 
 
+#nav-list a:hover {
+  background: plum;
+}
+
 .peachy {
 background-color: #FFDAB9;
 }
