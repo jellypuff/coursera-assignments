@@ -12,3 +12,8 @@ Module 3:
 - [Requirements](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 - [My Code](https://github.com/jellypuff/coursera-assignments/tree/gh-pages/module3-solution)
 - [My Solution](https://jellypuff.github.io/coursera-assignments/module3-solution/)
+
+Module 4:
+- [Requirements](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+- [My Code](https://github.com/jellypuff/coursera-assignments/tree/gh-pages/module4-solution)
+- [My Solution](https://jellypuff.github.io/coursera-assignments/module4-solution/)
